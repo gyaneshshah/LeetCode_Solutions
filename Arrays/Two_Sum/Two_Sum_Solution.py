@@ -5,10 +5,10 @@ class Solution:
         # Creating a flag to break the loop
         no="Not Found"
         # Iterating over the values in nums
-        for i in range(0, len(nums)):
+        for i in range(0, len(nums)-1):
             if no=='Found':
                 break
-            for j in range(0, len(nums)):
+            for j in range(i+1, len(nums)):
                 # Check for two numbers that add up to target
                 if nums[i]+nums[j]==target:
                     no=='Found'
