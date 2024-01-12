@@ -1,4 +1,5 @@
-# Two Sum is an Easy Array Question
+# Two Sum
+Two Sum is an Easy Array Question
 
 ### Question:
 We need to find two values in nums (an array given) that add up to target (a value given to us)
