@@ -3,7 +3,7 @@
 Plus one is an Easy Array Question.
 
 ## Question:
-We have a long integer but in a array (named digits) format, each digit is a value of the integer ordered from most significant to least significant in left-to-right order. We need to increment the integer by 1 and return the integer array.  
+We have a long integer but in an array (named digits) format, each digit is a value of the integer ordered from most significant to least significant in left-to-right order. We need to increment the integer by 1 and return the integer array.  
 
 ## Approach:
 We need to increment 1 to the right most digit and then add the carry forward to the other digits moving left.
