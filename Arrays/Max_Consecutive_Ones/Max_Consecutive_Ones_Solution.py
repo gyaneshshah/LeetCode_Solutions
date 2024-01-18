@@ -9,3 +9,5 @@ class Solution:
                 counts.append(cnt)
                 cnt=0
         counts.append(cnt)
+    
+        return max(counts)
