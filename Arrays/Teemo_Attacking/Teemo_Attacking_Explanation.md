@@ -15,4 +15,4 @@ We iterate through all the values in **timeSeries**. We use if-else to create co
 if the difference between time t+1 and t is greater than **duration** then we can increment **ans** by **duration**
 else we increment by the difference
 We shall run the loop for 1 element less as the last element won't have a t+1 to calculate the difference. To make up for that we shall increment by duration once after the for loop.
-Return **ans**
+Return **ans**.
