@@ -1,6 +1,6 @@
 # Airplane Seat Assignment Probability
 
-This is an Easy Math question
+This is a Medium Math question
 
 ## Question
 *n* passengers board an airplane with exactly *n* seats. The first passenger has lost the ticket and picks a seat randomly. But after that, the rest of the passengers will:
