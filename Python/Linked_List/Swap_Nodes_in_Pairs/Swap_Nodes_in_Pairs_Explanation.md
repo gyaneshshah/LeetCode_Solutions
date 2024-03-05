@@ -12,9 +12,9 @@ Create a **new_node** empty list. Point its next element to the head.
 Set **prev_node** as **new_node**.
 Run a while loop checking if the current and the next node are present.
 Set the **first_node** as the **head**, **second_node** as the next of **head**.
-Now to update, we shall set next of the **prev_node** as the **second_node** (Taking the second node and putting it first)
-Set the next of the **first_node** to the next of the **second_node** 
-Set the next of the **second_node** to the **first_node** (Taking the first node and putting it second)
+Now to update, we shall set next of the **prev_node** as the **second_node** (Taking the second node and putting it first).
+Set the next of the **first_node** to the next of the **second_node**.
+Set the next of the **second_node** to the **first_node** (Taking the first node and putting it second).
 Next we move one step ahead, we set **prev_node** to the **first_node** and the head to the next of the **first_node**.
 
-We return the next of **new_node** outside the while loop
+We return the next of **new_node** outside the while loop.
