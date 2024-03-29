@@ -16,7 +16,7 @@ In SQL, the solution files are in .sql format. Please note that sometimes the ta
 Each problem folder follows the same naming convention as the corresponding LeetCode problem, replacing spaces with underscores ('_'). This ensures a consistent and easily navigable structure.
 
 ## Usage
-Feel free to explore the solutions and explanations provided. In the explanations, variables will be formatted in **bold** or *italics* for better clarity and readability.
+Feel free to explore the solutions and explanations provided. In the explanations, variables will be highlighted (**bold** or *italics*) for better clarity and readability.
 If you have any questions or suggestions, you can reach out to me.
 
 ## Note on Contributions
