@@ -6,7 +6,7 @@ This repository serves as a personal collection of my solutions to various LeetC
 The primary goal is to document and share my problem-solving journey on LeetCode, providing both a learning resource for others and a track record of my progress.
 
 ## Structure
-The repository is organized into two main folders: Python and SQL. Each of these folders contains subfolders based on problem topics, such as Arrays, Strings, etc. Inside these topic folders, you'll find individual folders for each problem. Each problem folder contains two files:
+The repository is organized into three main folders: Python, Pandas and PostgreSQL. Each of these folders contains subfolders based on problem topics, such as Arrays, Strings, etc. Inside these topic folders, you'll find individual folders for each problem. Each problem folder contains two files:
 - One Python solution file (.py)
 - One explanation file in markdown format (.md)
 
