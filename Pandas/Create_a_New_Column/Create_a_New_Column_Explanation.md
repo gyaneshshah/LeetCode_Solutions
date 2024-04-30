@@ -44,3 +44,4 @@ A new column bonus is created by doubling the value in the column salary.
 
 ## Approach
 We create a new column just how we add a new key to a dictionary, the values for it we multiply the values of the `salary` column into 2.
+We return the updated dataframe.
