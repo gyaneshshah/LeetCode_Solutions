@@ -1,4 +1,4 @@
-# Longest Palindromic Substring
+# Reverse Prefix of Word
 
 This is an Easy Two Pointers question
 
